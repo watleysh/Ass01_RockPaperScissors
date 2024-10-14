@@ -51,6 +51,6 @@ public class Ass01_RockPaperScissors {
 
         } while (playAgain.equalsIgnoreCase("Y"));
 
-        System.out.println("See you next time!");
+        System.out.println("Thanks for playing!");
     }
 }
